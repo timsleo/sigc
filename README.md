@@ -1,5 +1,4 @@
-# 🚀 MGCIA — Módulo de Gerenciamento da Colônia Inteligente Aurora Siger
-
+# 🚀 Sistema Inteligente de Gerenciamento da Colônia
 ## 📖 Descrição do Projeto
 
 Este projeto é a **Fase 3** da Missão Aurora Siger, cujo objetivo é simular o funcionamento inteligente de uma colônia permanente em Marte. Após o pouso e a estabilização da base (fases anteriores), o desafio agora é **manter a colônia operando de forma autônoma e eficiente**.
